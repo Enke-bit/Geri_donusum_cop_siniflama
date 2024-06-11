@@ -35,6 +35,7 @@ Gereksinimleri yüklemek için aşağıdaki komutu kullanabilirsiniz:
 pip install opencv-python-headless numpy pandas seaborn matplotlib scikit-learn tensorflow keras imutils
 
 
+Veri kaynak Dosyası Linki: https://www.kaggle.com/datasets/feyzazkefe/trashnet
 
 Veri Ön İşleme
 Veri Setinin Yüklenmesi:
