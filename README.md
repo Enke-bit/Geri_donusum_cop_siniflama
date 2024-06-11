@@ -10,23 +10,37 @@ https://www.kaggle.com/datasets/feyzazkefe/trashnet
 Kullanılan Kütüphaneler:
 
 Python
+
 TensorFlow & Keras
+
 OpenCV
+
 Matplotlib & Seaborn
+
 Scikit-learn
+
 Numpy
+
 Pandas
+
 Veri İşleme:
+
 Veri seti, resimlerin sınıflandırılması ve etiketlenmesi için yüklendi. Görseller, eğitim sürecini iyileştirmek için ImageDataGenerator ile artırıldı.
 
 Model:
+
 Model olarak Convolutional Neural Network (CNN) kullanıldı. Modelin yapısı şu şekildedir:
 
 Convolutional Katmanlar
+
 MaxPooling Katmanları
+
 Flatten Katmanı
+
 Dense Katmanlar
+
 Dropout Katmanları
+
 Eğitim:
 Model, eğitim verileri ile eğitildi ve doğrulama verileri ile test edildi. Model performansı precision, recall, ve accuracy metrikleri ile değerlendirildi.
 
